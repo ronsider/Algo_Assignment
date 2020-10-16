@@ -19,3 +19,10 @@ Matrix information will consist of the folllowing triplets(i,j,v),whereas i repr
 
 
 [![pic2.png](https://i.postimg.cc/vBgS89nq/pic2.png)](https://postimg.cc/phvBqmqz)
+
+
+# The algorithm
+
+For this assignment we are using Kadane’s algorithm to achieve complexity of O(n^3).
+
+
