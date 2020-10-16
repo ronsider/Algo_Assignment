@@ -9,7 +9,7 @@ Find a total sum sub-matrix within a **given area** and return it's coordinates.
   
   Bottom right corner(iRight,jRight).
 
-Class constructor will be of the following form:
+Class constructor takes the following form:
 
 Public MaxSubRecatangle(int[][]data).
 
